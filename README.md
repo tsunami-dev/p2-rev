@@ -1,5 +1,5 @@
 # p2-rev
-data generator with 10k database
+data generator with 10k rows of data in our database
 
 Languages used in this project are Scala, Spark, and SparkSQL
 
